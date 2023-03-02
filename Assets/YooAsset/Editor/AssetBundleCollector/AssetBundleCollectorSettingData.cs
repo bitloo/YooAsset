@@ -57,6 +57,7 @@ namespace YooAsset.Editor
 					typeof(PackSeparately),
 					typeof(PackDirectory),
 					typeof(PackTopDirectory),
+					typeof(PackTopOrRootDirectory),
 					typeof(PackCollector),
 					typeof(PackGroup),
 					typeof(PackRawFile),
